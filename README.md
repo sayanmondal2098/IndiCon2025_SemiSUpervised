@@ -1,1 +1,1 @@
-# IndiCon2025_SemiSUpervised
+# Space_SemiSUpervised_2025
